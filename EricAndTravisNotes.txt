@@ -1,0 +1,19 @@
+Eric and Travis need to know WTF is going on with this stuff
+
+bash-3.2$ sudo python setup.py install
+running install
+running build
+running build_py
+copying DenyHosts/regex.py -> build/lib/DenyHosts
+running build_scripts
+running install_lib
+copying build/lib/DenyHosts/regex.py -> /Library/Python/2.7/site-packages/DenyHosts
+byte-compiling /Library/Python/2.7/site-packages/DenyHosts/regex.py to regex.pyc
+running install_scripts
+changing mode of /usr/local/bin/denyhosts.py to 755
+running install_data
+running install_egg_info
+Removing /Library/Python/2.7/site-packages/DenyHosts-2.6-py2.7.egg-info
+Writing /Library/Python/2.7/site-packages/DenyHosts-2.6-py2.7.egg-info
+
+
